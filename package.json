@@ -1,0 +1,13 @@
+{
+  "name": "store-wa-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Store Bot using Baileys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "^9.0.0"
+  }
+}
